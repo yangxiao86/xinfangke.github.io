@@ -9,7 +9,7 @@
 		"name":"scene1"
 	},
 	{
-		"keys":"scene2bg_jpg,scene2sprite_json,scene2turret_json,sprite1_left_json,sprite1_left_png,sprite1_up_json,sprite1_up_png",
+		"keys":"scene2bg_jpg,scene2sprite_json,scene2turret_json,sprite1_left_json,sprite1_left_png,sprite1_up_json,sprite1_up_png,button_normal_png,sprite1_down_json,sprite1_down_png,sprite1_right_json,sprite1_right_png",
 		"name":"scene2"
 	}],
 	"resources":[
@@ -21,13 +21,13 @@
 	},
 	{
 		"name":"button_down_png",
-		"scale9grid":"4,3,13,14",
+		"scale9grid":"21,17,12,12",
 		"type":"image",
 		"url":"assets/simple/NormalButton/button_down.png"
 	},
 	{
 		"name":"button_normal_png",
-		"scale9grid":"4,3,13,15",
+		"scale9grid":"21,17,12,12",
 		"type":"image",
 		"url":"assets/simple/NormalButton/button_normal.png"
 	},
